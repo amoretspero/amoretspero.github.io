@@ -2,3 +2,13 @@
     font-family: 'MyFont';
     src: url('../fonts/NanumPen.ttf') format('truetype')
 }
+
+div.one-fourth {
+    width:25%;
+    float:left;
+}
+
+div.three-fourths {
+    width:75%;
+    float:left;
+}
